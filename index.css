@@ -317,7 +317,7 @@ body {
 } */
 
 .pre-btn1,
-.nxt-btn1{
+.nxt-btn1 {
     position: absolute;
     padding: 100px 0px;
     width: 5%;
@@ -328,7 +328,7 @@ body {
 }
 
 .pre-btn2,
-.nxt-btn2{
+.nxt-btn2 {
     position: absolute;
     padding: 100px 0px;
     z-index: 2;
@@ -337,8 +337,9 @@ body {
     cursor: pointer;
     outline: none;
 }
+
 .pre-btn1,
-.pre-btn2{
+.pre-btn2 {
     left: 0;
     background: linear-gradient(to right, #0c111b 0%, #0c111b00);
 }
